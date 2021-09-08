@@ -47,7 +47,6 @@ jobs:
 
 
             cd frontend
-            echo $CODE
             nmp install
             nmp run build
 
