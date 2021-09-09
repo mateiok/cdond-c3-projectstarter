@@ -47,7 +47,7 @@ jobs:
 
             cd frontend
             nmp install
-            nmp run build
+           # nmp run build
 
             #exit 1
 
